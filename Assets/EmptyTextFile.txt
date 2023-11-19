@@ -1,0 +1,7 @@
+﻿You have just escaped from your prison cell into the sewer system below. Before you can start making your way through, you hear
+the sound of water rapidly approaching from behind. The safe option would be to head back to your cell but the next junction ahead
+is in sight and you are tempted to make a run for it as you would be safe around the corner.
+
+What do you do?
+1. Climb back into your cell and wait out the water.
+2. Make a run for the junction and risk a watery death.

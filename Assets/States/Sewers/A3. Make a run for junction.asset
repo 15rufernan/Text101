@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058cf67142ba84122a78ba93c222bd2e, type: 3}
+  m_Name: A3. Make a run for junction
+  m_EditorClassIdentifier: 
+  storyText: 'You run as fast as you can to the junction and barely make it as the
+    gushing water grazes past your left shoulder. Panting with relief you look up
+    and realise that, in your hurry, you have walked into an alligator infestation.
+
+
+    What
+    do you do?
+
+
+    1. Calmly walk through the shallow water to the exit.
+
+
+    2.
+    Run through the water to the exit.'
+  nextStates:
+  - {fileID: 11400000, guid: 92e101edf3a904f278de82abfb6c8596, type: 2}
+  - {fileID: 11400000, guid: 58a51553e907244e7bb8a64a827e23a8, type: 2}

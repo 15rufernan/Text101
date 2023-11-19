@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058cf67142ba84122a78ba93c222bd2e, type: 3}
+  m_Name: A1. Start
+  m_EditorClassIdentifier: 
+  storyText: 'You have just escaped from your prison cell into the sewer system below.
+    Before you can start making your way through, you hear
+
+    the sound of water
+    rapidly approaching from behind. The safe option would be to head back to your
+    cell but the next junction ahead
+
+    is in sight and you are tempted to make
+    a run for it as you would be safe around the corner.
+
+
+    What do you do?
+
+    1.
+    Climb back into your cell and wait out the water.
+
+    2. Make a run for the
+    junction and risk a watery death.'
+  nextStates:
+  - {fileID: 11400000, guid: ab99ee8d8e8554077b72a27c7dcc802b, type: 2}
+  - {fileID: 11400000, guid: 481808fa7d5574abb806838f8b6426e8, type: 2}
